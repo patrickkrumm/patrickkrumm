@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @patrickkrumm this is my GitHub page. No experience at the moment, working on changing that.
+- 👋 Hi, I’m @patrickkrumm this is my GitHub page. 
 
 <!---
 patrickkrumm/patrickkrumm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
